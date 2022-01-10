@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcfrann
-- 👀 I’m interested in photography, reading, and hiking.
-- 🌱 I’m currently learning front-end development.
+- 👀 I’m a creative front-end web developer. I love all things HTML, JavaScript, and especially CSS.😍
+- 🌱 I’m currently studying at Turing School of Software and Design.
 - 💞️ I’m looking to collaborate on design patterns and diving deeper into learning.
 - 📫 fmcconnell59@gmail.com
 
