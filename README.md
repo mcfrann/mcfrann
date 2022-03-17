@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:fmcconnell59@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=black&color=cfbaf0" />
+  <img src="https://img.shields.io/badge/gmail-D14836?style=flat-square&logo=gmail&logoColor=black&color=cfbaf0" />
   <a href="https://www.linkedin.com/in/francesca-mcconnell/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=black&color=a3c4f3" />
 </p>  
