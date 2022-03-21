@@ -14,10 +14,11 @@
 <h1 align="center">Tools and Technologies</h1>
  
 <p align="center">
-  <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="javascript" src="https://img.shields.io/badge/-javascript-3776AB?style=flat-square&logo=JavaScript&logoColor=black&color=f1c0e8"></a>
+   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="cypress" src="https://img.shields.io/badge/-cypress-3776AB?style=flat-square&logo=JavaScript&logoColor=black&color=a3c4f3"></a>
+  <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=black&color=f1c0e8"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=black&color=cfbaf0"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black&color=a3c4f3"></a>
-  <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=black&color=f1c0e8"></a>
+   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="javascript" src="https://img.shields.io/badge/-javascript-3776AB?style=flat-square&logo=JavaScript&logoColor=black&color=f1c0e8"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black&color=cfbaf0"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="atom" src="https://img.shields.io/badge/atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=black&color=a3c4f3"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=black&color=cfbaf0"></a><br>
