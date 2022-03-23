@@ -35,10 +35,5 @@
 
 <h2 align="center">GitHub Stats:</h2>
 <p align="center">
-  <a href="https://github.com/mcfrann/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=mcfrann&theme=dark&hide_rank=true&hide=stars&count_private&show_icons=true" /></a>
-  <br>
-  <br>
-  <a href="https://github.com/mcfrann/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcfrann&theme=dark&layout=compact" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcfrann&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
