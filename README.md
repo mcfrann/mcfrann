@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=black&color=a3c4f3" />
 </p>  
 
-<h1 align="center">Tools and Technologies</h1>
+<h2 align="center">Tools and Technologies</h2>
  
 <p align="center">
    <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="cypress" src="https://img.shields.io/badge/-cypress-3776AB?style=flat-square&logo=cypress&logoColor=black&color=a3c4f3"></a>
