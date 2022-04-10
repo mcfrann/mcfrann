@@ -14,6 +14,7 @@
 <h2 align="center">Tools and Technologies</h2>
  
 <p align="center">
+  <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="typescript" src="https://img.shields.io/badge/-typescript-3776AB?style=flat-square&logo=typescript&logoColor=black&color=cfbaf0"></a>
    <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="cypress" src="https://img.shields.io/badge/-cypress-3776AB?style=flat-square&logo=cypress&logoColor=black&color=a3c4f3"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=black&color=f1c0e8"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=black&color=cfbaf0"></a>
