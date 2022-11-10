@@ -36,7 +36,3 @@
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="adobe lightroom" src="https://img.shields.io/badge/adobe%20lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=black&color=cfbaf0"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="adobe photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=black&color=a3c4f3"></a>
 
-<h2 align="center">GitHub Stats:</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcfrann&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
