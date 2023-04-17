@@ -35,4 +35,13 @@
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="adobe creative suite" src="https://img.shields.io/badge/adobe%20creative%20suite-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=black&color=f1c0e8"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="adobe lightroom" src="https://img.shields.io/badge/adobe%20lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=black&color=cfbaf0"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="adobe photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=black&color=a3c4f3"></a>
+  
+---
+  
+<div align="center">
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=mcfrann&show_icons=true&theme=radical)
+  
+![My Fav Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcfrann&layout=compact&theme=radical)
+</div>
 
