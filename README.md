@@ -16,6 +16,7 @@
 <p align="center">
     <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="gsap" src="https://img.shields.io/badge/-gsap-3776AB?style=flat-square&logo=greensock&logoColor=black&color=935489"></a>
     <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=black&color=935489"></a>
+  <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="shopify" src="[https://img.shields.io/badge/-gsap-3776AB?style=flat-square&logo=greensock&logoColor=black&color=935489](https://img.shields.io/badge/-shopify-3776AB?style=flat-square&logo=shopify&logoColor=black&color=935489)"></a>
    <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="cypress" src="https://img.shields.io/badge/-cypress-3776AB?style=flat-square&logo=cypress&logoColor=black&color=935489"></a>
     <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="typescript" src="https://img.shields.io/badge/-typescript-3776AB?style=flat-square&logo=typescript&logoColor=black&color=935489"></a></br>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="scss" src="https://img.shields.io/badge/-scss-3776AB?style=flat-square&logo=sass&logoColor=black&color=935489"></a>
