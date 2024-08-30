@@ -2,7 +2,13 @@
   <img width="400" src="https://media.giphy.com/media/3oz8xA9gtnyVDPZJHW/giphy.gif">
 </p>
 
-<h4 align="center"><samp> Hey there, I'm Francesca. 🙋🏽‍♀️ <br> I'm a creative front-end software developer. ✨ </samp></h4>
+<h4 align="center"><samp> Hey there, I'm Francesca. 🙋🏽‍♀️ 
+<!--   <br> I'm a creative front-end software developer. ✨ </samp> -->
+</h4>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=creative%20front-end%20developer%20and%20visual%20artist&font=Fira%20Code&center=true&width=620&height=45&color=f40e72&vCenter=true&pause=1000&size=20" />
+</p>
 
 <p align="center">
   <a href="mailto:fmcconnell59@gmail.com">
