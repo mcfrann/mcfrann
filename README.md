@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=creative%20front-end%20developer%20and%20visual%20artist&font=Fira%20Code&center=true&width=620&height=45&color=f40e72&vCenter=true&pause=1000&size=20" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=creative%20front-end%20developer%20and%20visual%20artist&font=Oswald&weight=200&%20Code&center=true&width=550&height=45&color=f40e72&vCenter=true&pause=1000&size=24" />
 </p>
 
 <p align="center">
