@@ -2,9 +2,7 @@
   <img width="400" src="https://media.giphy.com/media/3oz8xA9gtnyVDPZJHW/giphy.gif">
 </p>
 
-<!-- <h4 align="center"><samp> Hey there, I'm Francesca. 🙋🏽‍♀️ 
-<br> I'm a creative front-end software developer. ✨ </samp>
-</h4> -->
+<h4 align="center">🙋🏽‍♀️</h4>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=200&size=24&letterSpacing=&pause=100&color=F40E72&center=true&vCenter=true&multiline=true&width=435&height=80&lines=hey+there%2C+i'm+francesca+%3A);a+creative+front-end+developer+and+visual+artist" alt="Typing SVG" />
