@@ -29,8 +29,4 @@
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=flat-square&logo=mocha&logoColor=black&color=935489"></a>
   <a href="https://github.com/mcfrann?tab=repositories" target="_blank"><img alt="chai" src="https://img.shields.io/badge/chai-A30701?style=flat-square&logo=chai&logoColor=black&color=935489"></a>
   
-<div align="center">
-  
-![My Fav Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcfrann&layout=compact&theme=radical)
-</div>
 
